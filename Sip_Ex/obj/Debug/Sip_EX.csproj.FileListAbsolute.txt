@@ -1,0 +1,110 @@
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.pdb
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\bin\Debug\PJSIP_PJSUA2_CSharp.dll
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\Acillles\source\repos\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\bin\Debug\PJSIP_PJSUA2_CSharp.dll
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.SuggestedBindingRedirects.cache
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\rriv3ro\Downloads\Sip_EX\Sip_EX\obj\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.SuggestedBindingRedirects.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\bin\Debug\PJSIP_PJSUA2_CSharp.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-27-2023\Sip_EX\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.SuggestedBindingRedirects.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.pdb
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\QHTF\Downloads\sip_EX (1)\Sip_EX\bin\Debug\PJSIP_PJSUA2_CSharp.dll
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.SuggestedBindingRedirects.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\QHTF\Downloads\sip_EX (1)\sip_EX (1)\Sip_EX\obj\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.SuggestedBindingRedirects.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.pdb
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\CSCore.dll
+C:\Users\rriv3ro\OneDrive - Visentry LLC\Development\4-30-2023\pjsip-dialer\Sip_EX\bin\Debug\CSCore.xml
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\Sip_EX.exe.config
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\Sip_EX.exe
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\Sip_EX.pdb
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\CSCore.dll
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\PJSUA2.dll
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\System.Security.AccessControl.dll
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\CSCore.xml
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\System.Security.AccessControl.xml
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.AssemblyReference.cache
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.SuggestedBindingRedirects.cache
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.ExForm.resources
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.Properties.Resources.resources
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.GenerateResource.cache
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.CoreCompileInputs.cache
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.csproj.CopyComplete
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.exe
+C:\Users\QHTF\Downloads\pjsip-dialer\pjsip-dialer\Sip_EX\obj\Debug\Sip_EX.pdb

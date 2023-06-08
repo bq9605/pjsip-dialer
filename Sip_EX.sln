@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sip_EX", "Sip_EX\Sip_EX.csproj", "{07F2BC99-3AE4-47B0-85D6-2313D21F5425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F2BC99-3AE4-47B0-85D6-2313D21F5425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F2BC99-3AE4-47B0-85D6-2313D21F5425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F2BC99-3AE4-47B0-85D6-2313D21F5425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F2BC99-3AE4-47B0-85D6-2313D21F5425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB0F5FF-C19B-4D83-A000-B26D6CDA2C75}
+	EndGlobalSection
+EndGlobal
